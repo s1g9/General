@@ -1,0 +1,17 @@
+For viewing PDF, never use Adobe PDF, its too slow
+Use PDF Xchanger Viewer: Open Source, Fast and the best pdf viewer i ever came across
+
+
+============================================================================================
+
+Ever came acroos Remote control Server application.
+Well use your computer keypad from your mobile.
+It creates a server from your computer and connects to your phone through wifi to its application on android.
+All Setup is all done :)
+
+==============================================================================================
+
+Best application for Remote Desktop inside a campus like IIT is "Splashtop"
+Just keep ur laptop connected to internet and u can use from anywhere in the campus from your mobile ! Yes your mobile !
+
+It also transmits voice too, so u can even watch a movie sitting with your girlfriend on rooftop without really carrying your laptop :P
