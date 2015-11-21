@@ -1,0 +1,24 @@
+DESIGN
+==========
+
+Photoshop - You master its features and shortcuts. You will realize you have learnt shortcuts of almost every other software you may come across
+
+Illustrator - A software where everything is made of shapes, lines. Good learn if you want to understand that almost everything is a combination of shapes and gradients.
+
+================================************************************================================================================================
+
+CODING
+
+==========
+
+Android Programming : At least try once. Best way to do it is to participate in a hackthon or a event and try to produce your idea in form of an application. You will realize that at the end of the night, you have learnt much more than you expected :)
+
+In case you face problem with android, learn java first. To learn OOPS, java is the best language to start with. Refer to java tutorials by 'thenewboston'. Try the begineer tutorials and it shall give you a good push.
+
+Participate in coding competitions. Download the android application 'Coding Calendar' to learn which all events are happening across known coding websites.
+
+
+================================************************************================================================================================
+
+
+
